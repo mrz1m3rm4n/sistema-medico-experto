@@ -1,0 +1,28 @@
+C:\Users\Alberto\Documents\Universidad Insurgentes\POO 2\Sistema Experto Medico\Source\Sistema Experto Medico\bin\Debug\Sistema Experto Medico.exe
+C:\Users\Alberto\Documents\Universidad Insurgentes\POO 2\Sistema Experto Medico\Source\Sistema Experto Medico\bin\Debug\Sistema Experto Medico.pdb
+C:\Users\Alberto\Documents\Universidad Insurgentes\POO 2\Sistema Experto Medico\Source\Sistema Experto Medico\bin\Debug\Sistema Experto Medico.xml
+C:\Users\Alberto\Documents\Universidad Insurgentes\POO 2\Sistema Experto Medico\Source\Sistema Experto Medico\obj\x86\Debug\Sistema_Experto_Medico.Resources.resources
+C:\Users\Alberto\Documents\Universidad Insurgentes\POO 2\Sistema Experto Medico\Source\Sistema Experto Medico\obj\x86\Debug\Sistema Experto Medico.vbproj.GenerateResource.Cache
+C:\Users\Alberto\Documents\Universidad Insurgentes\POO 2\Sistema Experto Medico\Source\Sistema Experto Medico\obj\x86\Debug\Sistema Experto Medico.exe
+C:\Users\Alberto\Documents\Universidad Insurgentes\POO 2\Sistema Experto Medico\Source\Sistema Experto Medico\obj\x86\Debug\Sistema Experto Medico.xml
+C:\Users\Alberto\Documents\Universidad Insurgentes\POO 2\Sistema Experto Medico\Source\Sistema Experto Medico\obj\x86\Debug\Sistema Experto Medico.pdb
+C:\Users\Alberto\Documents\Universidad Insurgentes\POO 2\Sistema Experto Medico\Source\Sistema Experto Medico\obj\x86\Debug\Sistema_Experto_Medico.frmResultado.resources
+C:\Users\Alberto\Documents\Universidad Insurgentes\POO 2\Sistema Experto Medico\Source\Sistema Experto Medico\obj\x86\Debug\Sistema_Experto_Medico.frmDiagnostico.resources
+C:\Users\Alberto\Documents\Universidad Insurgentes\POO 2\Sistema Experto Medico\Source\Sistema Experto Medico\obj\x86\Debug\Sistema_Experto_Medico.frmRegistro.resources
+C:\Users\Alberto\Documents\Universidad Insurgentes\POO 2\Sistema Experto Medico\Source\Sistema Experto Medico\obj\x86\Debug\Sistema_Experto_Medico.frmInicio.resources
+C:\Users\Alberto\Documents\Universidad Insurgentes\POO 2\Sistema Experto Medico\Source\Sistema Experto Medico\obj\x86\Debug\Sistema_Experto_Medico.frmInformacion.resources
+C:\VB\Sistema Experto Medico\Source\Sistema Experto Medico\bin\Debug\Sistema Experto Medico.exe
+C:\VB\Sistema Experto Medico\Source\Sistema Experto Medico\bin\Debug\Sistema Experto Medico.pdb
+C:\VB\Sistema Experto Medico\Source\Sistema Experto Medico\bin\Debug\Sistema Experto Medico.xml
+C:\VB\Sistema Experto Medico\Source\Sistema Experto Medico\obj\x86\Debug\Sistema Experto Medico.vbprojAssemblyReference.cache
+C:\VB\Sistema Experto Medico\Source\Sistema Experto Medico\obj\x86\Debug\Sistema_Experto_Medico.frmDiagnostico.resources
+C:\VB\Sistema Experto Medico\Source\Sistema Experto Medico\obj\x86\Debug\Sistema_Experto_Medico.frmResultado.resources
+C:\VB\Sistema Experto Medico\Source\Sistema Experto Medico\obj\x86\Debug\Sistema_Experto_Medico.frmInformacion.resources
+C:\VB\Sistema Experto Medico\Source\Sistema Experto Medico\obj\x86\Debug\Sistema_Experto_Medico.frmInicio.resources
+C:\VB\Sistema Experto Medico\Source\Sistema Experto Medico\obj\x86\Debug\Sistema_Experto_Medico.Resources.resources
+C:\VB\Sistema Experto Medico\Source\Sistema Experto Medico\obj\x86\Debug\Sistema_Experto_Medico.frmRegistro.resources
+C:\VB\Sistema Experto Medico\Source\Sistema Experto Medico\obj\x86\Debug\Sistema Experto Medico.vbproj.GenerateResource.cache
+C:\VB\Sistema Experto Medico\Source\Sistema Experto Medico\obj\x86\Debug\Sistema Experto Medico.vbproj.CoreCompileInputs.cache
+C:\VB\Sistema Experto Medico\Source\Sistema Experto Medico\obj\x86\Debug\Sistema Experto Medico.exe
+C:\VB\Sistema Experto Medico\Source\Sistema Experto Medico\obj\x86\Debug\Sistema Experto Medico.xml
+C:\VB\Sistema Experto Medico\Source\Sistema Experto Medico\obj\x86\Debug\Sistema Experto Medico.pdb
